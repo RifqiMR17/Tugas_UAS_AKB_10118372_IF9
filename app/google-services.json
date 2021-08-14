@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934803423217",
+    "firebase_url": "https://zooo-f0f67-default-rtdb.firebaseio.com",
+    "project_id": "zooo-f0f67",
+    "storage_bucket": "zooo-f0f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934803423217:android:4376ce20031f644f5c4e50",
+        "android_client_info": {
+          "package_name": "com.akb.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934803423217-vgbk3054gfiv9l2l5pn88oc6suufmrh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFV3uy-zTX8LITPVPMM_XTpJNUNaESr9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934803423217-vgbk3054gfiv9l2l5pn88oc6suufmrh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
